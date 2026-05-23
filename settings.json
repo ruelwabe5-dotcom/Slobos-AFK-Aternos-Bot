@@ -3,8 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
-  },
+    "type": "online"},
   "server": {
     "ip": "pvpsmp-TJwh.aternos.me",
     "port":37984,
